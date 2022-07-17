@@ -8,6 +8,8 @@
 * I've learnt how to make visualization using Microsoft Excel, programming language R.
 * Tablue is a very good tool for data visualization.
 
+##Overview of Penguin's data with labels[]()
+
 #Project 2 : Dataset link in Tablue
 
 * It was a great lesson for data visualization.
