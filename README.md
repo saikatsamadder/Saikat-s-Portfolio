@@ -17,4 +17,4 @@
 * We can make a presentation of data visualization by using Tablue.
 * Tablue helps to make a boared presentation into an interactive presentation.
 
-##Overview of CO2 per capita from Tablue ![](Sheet 1.png)
+##Overview of CO2 per capita from Tablue ![Tablue](Sheet 1.png)
