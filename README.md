@@ -6,4 +6,4 @@
 *I've worked on data cleaning using Microsoft Excel, programming language R.
 *I know how to filter data using Microsoft Excel, programming language R.
 *I've learnt how to make visualization using Microsoft Excel, programming language R.
-* Tablue is a very good tool for data visualization.
+*Tablue is a very good tool for data visualization.
